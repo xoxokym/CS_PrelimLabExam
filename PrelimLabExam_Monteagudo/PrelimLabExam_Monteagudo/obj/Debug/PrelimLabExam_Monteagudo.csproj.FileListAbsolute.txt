@@ -1,0 +1,14 @@
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\PrelimLabExam_Monteagudo\PrelimLabExam_Monteagudo\bin\Debug\PrelimLabExam_Monteagudo.exe.config
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\PrelimLabExam_Monteagudo\PrelimLabExam_Monteagudo\bin\Debug\PrelimLabExam_Monteagudo.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\PrelimLabExam_Monteagudo\PrelimLabExam_Monteagudo\bin\Debug\PrelimLabExam_Monteagudo.pdb
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\PrelimLabExam_Monteagudo\PrelimLabExam_Monteagudo\obj\Debug\PrelimLabExam_Monteagudo.csprojAssemblyReference.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\PrelimLabExam_Monteagudo\PrelimLabExam_Monteagudo\obj\Debug\PrelimLabExam_Monteagudo.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\PrelimLabExam_Monteagudo\PrelimLabExam_Monteagudo\obj\Debug\PrelimLabExam_Monteagudo.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\PrelimLabExam_Monteagudo\PrelimLabExam_Monteagudo\obj\Debug\PrelimLabExam_Monteagudo.pdb
+D:\Users\User\Desktop\PrelimLabExam_Monteagudo\PrelimLabExam_Monteagudo\bin\Debug\PrelimLabExam_Monteagudo.exe.config
+D:\Users\User\Desktop\PrelimLabExam_Monteagudo\PrelimLabExam_Monteagudo\bin\Debug\PrelimLabExam_Monteagudo.exe
+D:\Users\User\Desktop\PrelimLabExam_Monteagudo\PrelimLabExam_Monteagudo\bin\Debug\PrelimLabExam_Monteagudo.pdb
+D:\Users\User\Desktop\PrelimLabExam_Monteagudo\PrelimLabExam_Monteagudo\obj\Debug\PrelimLabExam_Monteagudo.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\PrelimLabExam_Monteagudo\PrelimLabExam_Monteagudo\obj\Debug\PrelimLabExam_Monteagudo.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\PrelimLabExam_Monteagudo\PrelimLabExam_Monteagudo\obj\Debug\PrelimLabExam_Monteagudo.exe
+D:\Users\User\Desktop\PrelimLabExam_Monteagudo\PrelimLabExam_Monteagudo\obj\Debug\PrelimLabExam_Monteagudo.pdb
